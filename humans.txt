@@ -6,7 +6,7 @@ Twitter: @funkylarma
 
 /* SITE */
 Last Updated: 03/09/2012
-Language: 
-Standards:
-Components:
-Software:
+Language: English
+Standards: html5 css3
+Components: Modernizr jQuery
+Software: Coda2
